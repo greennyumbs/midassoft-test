@@ -5,10 +5,10 @@
 # Steps to run:
 1. Run
 ```bash
-tsc knights-journey.ts
+tsc thanatat_sincharoen.ts
 ```
 
 2. Run
 ```bash
-node knights-journey.js
+node thanatat_sincharoen.js
 ```
